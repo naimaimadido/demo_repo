@@ -1,6 +1,6 @@
 Shopping List
 
-apples
+red apples
 bananas
 yogurt
 milk
